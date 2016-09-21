@@ -1,0 +1,21 @@
+.title{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 10px 0 5px 0;
+
+
+}
+input{
+	width: 200px;
+}
+button{
+	margin: 10px 0 5px 0;
+	background-color: #9ACD32;
+	border-color: #9ACD32;
+	border-style: solid;
+	color: #fff;
+	font-family: Arial;
+	font-size: 11pt;
+	padding: 5px;
+	width: 203px;
+}
